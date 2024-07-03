@@ -1,0 +1,52 @@
+#welcomeheading1{
+    color: #EBF4F6;
+    display: inline;
+    top: 50px;
+    position:relative;
+}
+#welcomeheading2{
+    color: #071952;
+    position: relative;
+    top: 50px;
+    display: inline;
+}
+.welcomeholder{
+    text-align: center;
+}
+.webcont1{
+    width: auto;
+    height: 786px;
+    background-image: url("pattern.jpg");
+    background-repeat: repeat-y;
+    background-size: 100%;
+    position: relative;
+}
+.profile {
+    width: 100%;
+    height:300px;
+}
+
+.profile img {
+    border: solid;
+    border-color: rgba(0, 0, 0, 0.429);
+    border-radius: 100%;
+    width: 200px;
+    margin: auto;
+    display: block;
+    position: relative;
+    top: 150px;
+}
+.homepaged{
+    position: relative;
+    background-color: #37B7C3;
+    border: dashed;
+    text-align: center;
+    top: 150px;
+    margin: 10px 20px;
+}
+#navhome{
+    position: relative;
+    top: 10px;
+    padding: 10px 10px 10px 10px;
+    font-family: "Wittgenstein", serif;
+}
