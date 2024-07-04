@@ -1,11 +1,11 @@
 #welcomeheading1{
-    color: #EBF4F6;
+    color: #071952;
     display: inline;
     top: 50px;
     position:relative;
 }
 #welcomeheading2{
-    color: #071952;
+    color: #EBF4F6;
     position: relative;
     top: 50px;
     display: inline;
@@ -16,7 +16,7 @@
 .webcont1{
     width: auto;
     height: 786px;
-    background-image: url("pattern.jpg");
+    background: linear-gradient(135deg, #ffffff, #071952);
     background-repeat: repeat-y;
     background-size: 100%;
     position: relative;
@@ -42,11 +42,17 @@
     border: dashed;
     text-align: center;
     top: 150px;
-    margin: 10px 20px;
+    margin: 10px 10%;
+    opacity: 60%;
 }
 #navhome{
     position: relative;
     top: 10px;
     padding: 10px 10px 10px 10px;
     font-family: "Wittgenstein", serif;
+}
+footer{
+    color: rgb(255, 255, 255);
+    background-color: #071952;
+    opacity: 50%;
 }
