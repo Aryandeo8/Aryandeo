@@ -11,12 +11,19 @@
     text-align: center;
     position: absolute;
     top: 50px;
-    margin: 20px;
+    margin: 20px 10%;
     border: dashed;
+    opacity: 80%;
 }
 .infohold p{
     padding: 10px 10px 10px 10px;
     font-family: "Wittgenstein", serif;
 
+}
+footer{
+    bottom: 0px;
+    color: rgb(255, 255, 255);
+    background-color: #071952;
+    opacity: 50%;
 }
 
